@@ -9,6 +9,7 @@ python = "^3.9"
 clip-server = "^0.5.1"
 clip-client = "^0.5.1"
 jupyter = "^1.0.0"
+sentence-transformers = "^2.2.2"
 
 [tool.poetry.dev-dependencies]
 
